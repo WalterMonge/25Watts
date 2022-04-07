@@ -1,0 +1,21 @@
+
+@import 'default';
+@import 'variables';
+@import 'header';
+@import 'mixins';
+@import 'main';
+@import 'footer';
+
+
+.primary-text {
+    color: white;
+    top: 254px;
+    left: 101px;
+    width: 554px;
+    height: 115px;
+    font-size: 48px;
+    
+}
+.secundary-text{
+    color: white;
+}

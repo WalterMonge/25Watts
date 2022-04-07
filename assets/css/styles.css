@@ -1,9 +1,96 @@
-#header {
-    background-image: url(../images/slider-1.png);
-    height: 750px;
+* {
+  margin: 0px;
+  padding: 0px;
+}
 
+header {
+  background-image: url(../images/slider-1.png);
+  width: 1366px;
+  height: 768px;
+}
+
+nav {
+  float: right;
+  margin-top: 38px;
+}
+
+.header_topLogo {
+  width: 129px;
+  height: 30px;
+  margin-top: 33px;
+  margin-left: 100px;
+}
+
+#header_section {
+  border-bottom: 1px solid #E0752F;
+  width: 1366px;
+  height: 96px;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  font-family: Roboto;
+  font-size: 16px;
 }
 
 li {
-    color: white;
+  float: left;
+  list-style: none;
+  margin-right: 60px;
 }
+
+h1 {
+  font-size: 48px;
+  color: white;
+  font-family: Poppins, sans-serif;
+  line-height: 48px;
+  margin-top: 191px;
+  margin-left: 101px;
+  width: 554px;
+  height: 115px;
+  opacity: 1;
+}
+
+.secundary-text {
+  margin-top: 30px;
+  margin-left: 101px;
+  width: 343px;
+  height: 42px;
+  color: white;
+  font-size: 16px;
+  font-family: Roboto;
+}
+
+.button1 {
+  margin-top: 53px;
+  margin-right: 1121px;
+  margin-left: 101px;
+  width: 144px;
+  height: 48px;
+  background: #E0752F;
+  border-radius: 25px;
+  opacity: 1;
+  text-align: center;
+  color: #FFFFFF;
+  font-family: Roboto;
+}
+
+.rectangleContainerAbout b {
+  color: #E0752F;
+}
+
+.primary-text {
+  color: white;
+  top: 254px;
+  left: 101px;
+  width: 554px;
+  height: 115px;
+  font-size: 48px;
+}
+
+.secundary-text {
+  color: white;
+}
+/*# sourceMappingURL=styles.css.map */

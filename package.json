@@ -1,0 +1,22 @@
+{
+  "name": "project25watts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WalterMonge/25Watts.git"
+  },
+  "author": "Walter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WalterMonge/25Watts/issues"
+  },
+  "homepage": "https://github.com/WalterMonge/25Watts#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
